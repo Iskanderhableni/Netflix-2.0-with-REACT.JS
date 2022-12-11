@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "netflix-clone-9ee31",
+    "netflix-clone": "netflix-clone-9ee31",
+    "netflix": "netflix-proj-19491"
+  },
+  "targets": {},
+  "etags": {}
+}
